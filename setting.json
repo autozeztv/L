@@ -1,0 +1,88 @@
+{
+    "addPesan": "@!",
+    "addSticker": {
+        "name": "",
+        "status": false
+    },
+    "autoJoin": false,
+    "autoRead": false,
+    "autoReply": false,
+    "autoadd": false,
+    "autoblock": false,
+    "blacklist": {},
+    "changePictureProfile": false,
+    "checkPost": false,
+    "invite": {},
+    "kk": false,
+    "lv": false,
+    "mention": false,
+    "mention2": false,
+    "mentionPesan": "..",
+    "messageSticker": {
+        "addName": "",
+        "addStatus": false,
+        "listSticker": {
+            "kickSticker": {
+                "STKID": "51626530",
+                "STKPKGID": "11538",
+                "STKVER": "1"
+            },
+            "leaveSticker": {
+                "STKID": "51626494",
+                "STKPKGID": "11538",
+                "STKVER": "1"
+            },
+            "readerSticker": {
+                "STKID": "13188540",
+                "STKPKGID": "1327110",
+                "STKVER": "1"
+            },
+            "responSticker": {
+                "STKID": "33158349",
+                "STKPKGID": "10788",
+                "STKVER": "1"
+            },
+            "sleepSticker": "",
+            "welcomeSticker": {
+                "STKID": "22832841",
+                "STKPKGID": "1705396",
+                "STKVER": "1"
+            }
+        }
+    },
+    "messagetag": "แทคเพื่อ?",
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {}
+    },
+    "replyPesan": "ตอนนี้เราอาจไม่ว่างหรือไม่อยู่ มีอาไรฝากช้อความทิ้งใว้",
+    "server": "VPS",
+    "stag": "",
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "wc": false,
+    "welcome": "ยังไม่มีข้อความต้อนรับคนเข้ากลุ่ม",
+    "welcome2": "ยังไม่มีข้อความต้อนรับคนออกกลุ่ม",
+    "winvite": false
+}
